@@ -129,5 +129,10 @@ namespace Browser
         {
             e.Handled = true;
         }
+
+        private void iBTN_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
